@@ -1,0 +1,16 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="CodeHimalayan Automation Project">
+    <listeners>
+        <listener class-name="utilities.Reporting"/>
+    </listeners>
+    <test name ="AutomationTest">
+        <parameter name="browser" value="chrome">
+            <classes>
+                <class name="testCases.TC_TestCaseRecruitment_000"/>
+            </classes>
+        </parameter>
+    </test>
+</suite>

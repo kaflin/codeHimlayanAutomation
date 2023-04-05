@@ -1,0 +1,14 @@
+2023-04-05 14:51:32,879 - base.BaseClass -INFO - Verifying title of OrangeHRM page
+2023-04-05 14:51:32,935 - pageObjectModel.Login.LoginToMainApplication -INFO - Logging to Main application
+2023-04-05 14:51:44,414 - pageObjectModel.recruitmentModule.Recruitment -INFO - Adding First Candidate
+2023-04-05 14:51:44,415 - pageObjectModel.recruitmentModule.Recruitment -INFO - Clicking To Recruitment Module
+2023-04-05 14:51:50,304 - pageObjectModel.recruitmentModule.Recruitment -INFO - Clicking on Add Button
+2023-04-05 14:51:55,869 - pageObjectModel.recruitmentModule.Recruitment -INFO - Adding Candidates
+2023-04-05 14:51:56,646 - pageObjectModel.recruitmentModule.Recruitment -INFO - Vacancy selected successfully
+2023-04-05 14:52:02,303 - pageObjectModel.recruitmentModule.Recruitment -INFO - Date selected successfully
+2023-04-05 14:52:22,948 - pageObjectModel.recruitmentModule.Recruitment -INFO - Adding Second Candidate
+2023-04-05 14:52:22,948 - pageObjectModel.recruitmentModule.Recruitment -INFO - Clicking To Recruitment Module
+2023-04-05 14:52:39,201 - pageObjectModel.recruitmentModule.Recruitment -INFO - Clicking on Add Button
+2023-04-05 14:52:45,881 - pageObjectModel.recruitmentModule.Recruitment -INFO - Adding Candidates
+2023-04-05 14:52:46,415 - pageObjectModel.Vacancies.Vacancy -INFO - Clicking To Recruitment Module
+2023-04-05 14:52:55,962 - pageObjectModel.Vacancies.Vacancy -INFO - Clicking To Vacancies Button
