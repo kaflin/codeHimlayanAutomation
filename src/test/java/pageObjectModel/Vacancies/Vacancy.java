@@ -89,7 +89,7 @@ public class Vacancy {
 
         new WebDriverWait(driver, Duration.ofSeconds(10));
         description.sendKeys("jvkfk  kgkkgk zdksjhsk  dkckzkvusj");
-        hiringManagerName.sendKeys("kjhshdc Collings");
+        hiringManagerName.sendKeys("Odis Adalwin");
         noOfPosition.sendKeys("8");
         vacancySubmitButton.click();
         Thread.sleep(5000);
